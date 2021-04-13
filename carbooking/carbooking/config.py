@@ -1,6 +1,6 @@
 # SECURITY WARNING: keep the secret key used in production secret!
 # update your secret key
-SECRET_KEY = 'e%#pwq5!m@kq%1+4ikvxf_^rx+00lerb^6k&jh9ym0g)#1h0ke'     # update your SECRET_KEY here
+SECRET_KEY = ''     # update your SECRET_KEY here
 
 
 # DATABASES = {
